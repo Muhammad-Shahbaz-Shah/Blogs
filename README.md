@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-code 
-=======
+
 # 📚 Blogs Platform
 
 > A modern, feature-rich blogging platform built with **Next.js** and cutting-edge web technologies.
